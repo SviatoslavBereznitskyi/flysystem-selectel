@@ -1,5 +1,5 @@
 {
-    "name": "argentcrusade/flysystem-selectel",
+    "name": "slivka-b/flysystem-selectel",
     "description": "Flysystem adapter for Selectel Cloud Storage",
     "keywords": ["flysystem", "selectel"],
     "homepage": "https://github.com/argentcrusade/flysystem-selectel",
@@ -7,7 +7,7 @@
     "require": {
         "php": ">=5.6",
         "league/flysystem": "~1.0",
-        "argentcrusade/selectel-cloud-storage": "~1.1"
+        "slivka-b/selectel-cloud-storage": "^1.2"
     },
     "require-dev": {
         "phpunit/phpunit": "~5.0",
